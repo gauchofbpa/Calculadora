@@ -1,4 +1,7 @@
+function calcular() {
+    if (soma() = true);
+}
+
 function soma() {
-    alert("xqdl");
-    alert("affs");
+
 }
